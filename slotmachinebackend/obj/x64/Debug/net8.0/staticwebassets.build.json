@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ctsP6RnJsXoS1ORkCQWB/FzVbTVNsI2rHMvybuTGsSA=",
+  "Source": "slotmachinebackend",
+  "BasePath": "_content/slotmachinebackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
